@@ -10,6 +10,7 @@ nav, h1, p, button, h5, a, th, td, footer {
     margin-left: 200px;
     margin-top: 20px;
     margin-bottom: 30px;
+    
 }
 .b {
     width: 445px;
@@ -130,4 +131,25 @@ font-family: roboto;
 font-size: 16px;
 line-height: 19px;
 text-align: center;
+}
+.fu {
+    width: 1219px;
+    height: 51px;
+   
+    margin-top: -10px;
+    margin-left: 179px;
+    margin-right: 20px;
+    
+}
+footer {
+    background-color: #f5f5f5;
+    font-family: roboto;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: left;
+    vertical-align: top;
+    color: #6c757d;
+    
+   
 }
