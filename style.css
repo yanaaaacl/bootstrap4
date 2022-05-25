@@ -1,3 +1,133 @@
-.navbar-expand-lg navbar-light bg-light {
-    background-color: #343A40;
+@font-face {
+    font-family: "Roboto";
+    src: url(http://fonts.gstatic.com/s/roboto/v15/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2);
+}
+nav, h1, p, button, h5, a, th, td, footer {
+    font-family: Roboto;
+}
+.flexi {
+    margin-right: 100px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.b {
+    width: 445px;
+    height: 234px;
+   
+    
+}
+.c {
+    width: 350px;
+    height: 165px;
+    
+    
+}
+.g {
+    width: 166px;
+    height: 19px;
+}
+.d {
+    width: 310px;
+    height: 23px;
+}
+.a {
+    width:398px;
+    height:57px;
+}
+
+.h {
+    width:200px;
+    height:30px;
+    
+}
+.e {
+    width: 310px;
+    height: 77px;
+    
+}
+.boosty {
+    margin-left: 200px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    
+    padding-right: 30px;
+}
+table {
+    width: 1110px;
+    height: 551px;
+   
+}
+.l {
+   width: 134px;
+   height: 19px;
+   font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: left;
+}
+.li { width: 505px;
+height: 38px;
+font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: left;
+}
+.k {
+width: 108px;
+height: 19px;
+font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+
+}
+.ki {
+    width:153px;
+    height:49px;
+    font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+}
+.w {
+width: 178px;
+height: 19px;
+font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+}
+.wi {
+    width:225px;
+    height: 70px;
+    font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+}
+.q {
+   width: 107px;
+   height: 19px;
+   font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+}
+.qi {
+    width: 161px;
+    height: 70px;
+    font-style: regular;
+font-family: roboto;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
 }
